@@ -1,0 +1,3063 @@
+fileFormatVersion: 2
+guid: c1a23599c5342704b810fa6dd6f1849d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BLOCKER
+    100002: //RootNode
+    100004: CELLER_DOOR
+    100006: joint1
+    100008: joint10
+    100010: joint10 1
+    100012: joint10 2
+    100014: joint10 3
+    100016: joint10 4
+    100018: joint10 5
+    100020: joint10 6
+    100022: joint100
+    100024: joint100 1
+    100026: joint100 2
+    100028: joint100 3
+    100030: joint100 4
+    100032: joint100 5
+    100034: joint100 6
+    100036: joint101
+    100038: joint101 1
+    100040: joint101 2
+    100042: joint101 3
+    100044: joint101 4
+    100046: joint101 5
+    100048: joint101 6
+    100050: joint102
+    100052: joint103
+    100054: joint104
+    100056: joint105
+    100058: joint106
+    100060: joint107
+    100062: joint11
+    100064: joint11 1
+    100066: joint11 2
+    100068: joint11 3
+    100070: joint11 4
+    100072: joint11 5
+    100074: joint11 6
+    100076: joint12
+    100078: joint12 1
+    100080: joint12 2
+    100082: joint12 3
+    100084: joint12 4
+    100086: joint12 5
+    100088: joint12 6
+    100090: joint13
+    100092: joint13 1
+    100094: joint13 2
+    100096: joint13 3
+    100098: joint13 4
+    100100: joint13 5
+    100102: joint13 6
+    100104: joint14
+    100106: joint14 1
+    100108: joint14 2
+    100110: joint14 3
+    100112: joint14 4
+    100114: joint14 5
+    100116: joint14 6
+    100118: joint15
+    100120: joint15 1
+    100122: joint15 2
+    100124: joint15 3
+    100126: joint15 4
+    100128: joint15 5
+    100130: joint15 6
+    100132: joint16
+    100134: joint16 1
+    100136: joint16 2
+    100138: joint16 3
+    100140: joint16 4
+    100142: joint16 5
+    100144: joint16 6
+    100146: joint17
+    100148: joint17 1
+    100150: joint17 2
+    100152: joint17 3
+    100154: joint17 4
+    100156: joint17 5
+    100158: joint17 6
+    100160: joint18
+    100162: joint18 1
+    100164: joint18 2
+    100166: joint18 3
+    100168: joint18 4
+    100170: joint18 5
+    100172: joint18 6
+    100174: joint19
+    100176: joint19 1
+    100178: joint19 2
+    100180: joint19 3
+    100182: joint19 4
+    100184: joint19 5
+    100186: joint19 6
+    100188: joint2
+    100190: joint2 1
+    100192: joint2 2
+    100194: joint2 3
+    100196: joint2 4
+    100198: joint2 5
+    100200: joint2 6
+    100202: joint20
+    100204: joint20 1
+    100206: joint20 2
+    100208: joint20 3
+    100210: joint20 4
+    100212: joint20 5
+    100214: joint20 6
+    100216: joint21
+    100218: joint21 1
+    100220: joint21 2
+    100222: joint21 3
+    100224: joint21 4
+    100226: joint21 5
+    100228: joint21 6
+    100230: joint22
+    100232: joint22 1
+    100234: joint22 2
+    100236: joint22 3
+    100238: joint22 4
+    100240: joint22 5
+    100242: joint22 6
+    100244: joint23
+    100246: joint23 1
+    100248: joint23 2
+    100250: joint23 3
+    100252: joint23 4
+    100254: joint23 5
+    100256: joint23 6
+    100258: joint24
+    100260: joint24 1
+    100262: joint24 2
+    100264: joint24 3
+    100266: joint24 4
+    100268: joint24 5
+    100270: joint24 6
+    100272: joint25
+    100274: joint25 1
+    100276: joint25 2
+    100278: joint25 3
+    100280: joint25 4
+    100282: joint25 5
+    100284: joint25 6
+    100286: joint26
+    100288: joint26 1
+    100290: joint26 2
+    100292: joint26 3
+    100294: joint26 4
+    100296: joint26 5
+    100298: joint26 6
+    100300: joint27
+    100302: joint27 1
+    100304: joint27 2
+    100306: joint27 3
+    100308: joint27 4
+    100310: joint27 5
+    100312: joint27 6
+    100314: joint28
+    100316: joint28 1
+    100318: joint28 2
+    100320: joint28 3
+    100322: joint28 4
+    100324: joint28 5
+    100326: joint28 6
+    100328: joint29
+    100330: joint29 1
+    100332: joint29 2
+    100334: joint29 3
+    100336: joint29 4
+    100338: joint29 5
+    100340: joint29 6
+    100342: joint3
+    100344: joint3 1
+    100346: joint3 2
+    100348: joint3 3
+    100350: joint3 4
+    100352: joint3 5
+    100354: joint3 6
+    100356: joint30
+    100358: joint30 1
+    100360: joint30 2
+    100362: joint30 3
+    100364: joint30 4
+    100366: joint30 5
+    100368: joint30 6
+    100370: joint31
+    100372: joint31 1
+    100374: joint31 2
+    100376: joint31 3
+    100378: joint31 4
+    100380: joint31 5
+    100382: joint31 6
+    100384: joint32
+    100386: joint32 1
+    100388: joint32 2
+    100390: joint32 3
+    100392: joint32 4
+    100394: joint32 5
+    100396: joint32 6
+    100398: joint33
+    100400: joint33 1
+    100402: joint33 2
+    100404: joint33 3
+    100406: joint33 4
+    100408: joint33 5
+    100410: joint33 6
+    100412: joint34
+    100414: joint34 1
+    100416: joint34 2
+    100418: joint34 3
+    100420: joint34 4
+    100422: joint34 5
+    100424: joint34 6
+    100426: joint35
+    100428: joint35 1
+    100430: joint35 2
+    100432: joint35 3
+    100434: joint35 4
+    100436: joint35 5
+    100438: joint35 6
+    100440: joint36
+    100442: joint36 1
+    100444: joint36 2
+    100446: joint36 3
+    100448: joint36 4
+    100450: joint36 5
+    100452: joint36 6
+    100454: joint37
+    100456: joint37 1
+    100458: joint37 2
+    100460: joint37 3
+    100462: joint37 4
+    100464: joint37 5
+    100466: joint37 6
+    100468: joint38
+    100470: joint38 1
+    100472: joint38 2
+    100474: joint38 3
+    100476: joint38 4
+    100478: joint38 5
+    100480: joint38 6
+    100482: joint39
+    100484: joint39 1
+    100486: joint39 2
+    100488: joint39 3
+    100490: joint39 4
+    100492: joint39 5
+    100494: joint39 6
+    100496: joint4
+    100498: joint4 1
+    100500: joint4 2
+    100502: joint4 3
+    100504: joint4 4
+    100506: joint4 5
+    100508: joint4 6
+    100510: joint40
+    100512: joint40 1
+    100514: joint40 2
+    100516: joint40 3
+    100518: joint40 4
+    100520: joint40 5
+    100522: joint40 6
+    100524: joint41
+    100526: joint41 1
+    100528: joint41 2
+    100530: joint41 3
+    100532: joint41 4
+    100534: joint41 5
+    100536: joint41 6
+    100538: joint42
+    100540: joint42 1
+    100542: joint42 2
+    100544: joint42 3
+    100546: joint42 4
+    100548: joint42 5
+    100550: joint42 6
+    100552: joint43
+    100554: joint43 1
+    100556: joint43 2
+    100558: joint43 3
+    100560: joint43 4
+    100562: joint43 5
+    100564: joint43 6
+    100566: joint44
+    100568: joint44 1
+    100570: joint44 2
+    100572: joint44 3
+    100574: joint44 4
+    100576: joint44 5
+    100578: joint44 6
+    100580: joint45
+    100582: joint45 1
+    100584: joint45 2
+    100586: joint45 3
+    100588: joint45 4
+    100590: joint45 5
+    100592: joint45 6
+    100594: joint46
+    100596: joint46 1
+    100598: joint46 2
+    100600: joint46 3
+    100602: joint46 4
+    100604: joint46 5
+    100606: joint46 6
+    100608: joint47
+    100610: joint47 1
+    100612: joint47 2
+    100614: joint47 3
+    100616: joint47 4
+    100618: joint47 5
+    100620: joint47 6
+    100622: joint48
+    100624: joint48 1
+    100626: joint48 2
+    100628: joint48 3
+    100630: joint48 4
+    100632: joint48 5
+    100634: joint48 6
+    100636: joint49
+    100638: joint49 1
+    100640: joint49 2
+    100642: joint49 3
+    100644: joint49 4
+    100646: joint49 5
+    100648: joint49 6
+    100650: joint5
+    100652: joint5 1
+    100654: joint5 2
+    100656: joint5 3
+    100658: joint5 4
+    100660: joint5 5
+    100662: joint5 6
+    100664: joint50
+    100666: joint50 1
+    100668: joint50 2
+    100670: joint50 3
+    100672: joint50 4
+    100674: joint50 5
+    100676: joint50 6
+    100678: joint51
+    100680: joint51 1
+    100682: joint51 2
+    100684: joint51 3
+    100686: joint51 4
+    100688: joint51 5
+    100690: joint51 6
+    100692: joint52
+    100694: joint52 1
+    100696: joint52 2
+    100698: joint52 3
+    100700: joint52 4
+    100702: joint52 5
+    100704: joint52 6
+    100706: joint53
+    100708: joint53 1
+    100710: joint53 2
+    100712: joint53 3
+    100714: joint53 4
+    100716: joint53 5
+    100718: joint53 6
+    100720: joint54
+    100722: joint54 1
+    100724: joint54 2
+    100726: joint54 3
+    100728: joint54 4
+    100730: joint54 5
+    100732: joint54 6
+    100734: joint55
+    100736: joint55 1
+    100738: joint55 2
+    100740: joint55 3
+    100742: joint55 4
+    100744: joint55 5
+    100746: joint55 6
+    100748: joint56
+    100750: joint56 1
+    100752: joint56 2
+    100754: joint56 3
+    100756: joint56 4
+    100758: joint56 5
+    100760: joint56 6
+    100762: joint57
+    100764: joint57 1
+    100766: joint57 2
+    100768: joint57 3
+    100770: joint57 4
+    100772: joint57 5
+    100774: joint57 6
+    100776: joint58
+    100778: joint58 1
+    100780: joint58 2
+    100782: joint58 3
+    100784: joint58 4
+    100786: joint58 5
+    100788: joint58 6
+    100790: joint59
+    100792: joint59 1
+    100794: joint59 2
+    100796: joint59 3
+    100798: joint59 4
+    100800: joint59 5
+    100802: joint59 6
+    100804: joint6
+    100806: joint6 1
+    100808: joint6 2
+    100810: joint6 3
+    100812: joint6 4
+    100814: joint6 5
+    100816: joint6 6
+    100818: joint60
+    100820: joint60 1
+    100822: joint60 2
+    100824: joint60 3
+    100826: joint60 4
+    100828: joint60 5
+    100830: joint60 6
+    100832: joint61
+    100834: joint61 1
+    100836: joint61 2
+    100838: joint61 3
+    100840: joint61 4
+    100842: joint61 5
+    100844: joint61 6
+    100846: joint62
+    100848: joint62 1
+    100850: joint62 2
+    100852: joint62 3
+    100854: joint62 4
+    100856: joint62 5
+    100858: joint62 6
+    100860: joint63
+    100862: joint63 1
+    100864: joint63 2
+    100866: joint63 3
+    100868: joint63 4
+    100870: joint63 5
+    100872: joint63 6
+    100874: joint64
+    100876: joint64 1
+    100878: joint64 2
+    100880: joint64 3
+    100882: joint64 4
+    100884: joint64 5
+    100886: joint64 6
+    100888: joint65
+    100890: joint65 1
+    100892: joint65 2
+    100894: joint65 3
+    100896: joint65 4
+    100898: joint65 5
+    100900: joint65 6
+    100902: joint66
+    100904: joint66 1
+    100906: joint66 2
+    100908: joint66 3
+    100910: joint66 4
+    100912: joint66 5
+    100914: joint66 6
+    100916: joint67
+    100918: joint67 1
+    100920: joint67 2
+    100922: joint67 3
+    100924: joint67 4
+    100926: joint67 5
+    100928: joint67 6
+    100930: joint68
+    100932: joint68 1
+    100934: joint68 2
+    100936: joint68 3
+    100938: joint68 4
+    100940: joint68 5
+    100942: joint68 6
+    100944: joint69
+    100946: joint69 1
+    100948: joint69 2
+    100950: joint69 3
+    100952: joint69 4
+    100954: joint69 5
+    100956: joint69 6
+    100958: joint7
+    100960: joint7 1
+    100962: joint7 2
+    100964: joint7 3
+    100966: joint7 4
+    100968: joint7 5
+    100970: joint7 6
+    100972: joint70
+    100974: joint70 1
+    100976: joint70 2
+    100978: joint70 3
+    100980: joint70 4
+    100982: joint70 5
+    100984: joint70 6
+    100986: joint71
+    100988: joint71 1
+    100990: joint71 2
+    100992: joint71 3
+    100994: joint71 4
+    100996: joint71 5
+    100998: joint71 6
+    101000: joint72
+    101002: joint72 1
+    101004: joint72 2
+    101006: joint72 3
+    101008: joint72 4
+    101010: joint72 5
+    101012: joint72 6
+    101014: joint73
+    101016: joint73 1
+    101018: joint73 2
+    101020: joint73 3
+    101022: joint73 4
+    101024: joint73 5
+    101026: joint73 6
+    101028: joint74
+    101030: joint74 1
+    101032: joint74 2
+    101034: joint74 3
+    101036: joint74 4
+    101038: joint74 5
+    101040: joint74 6
+    101042: joint75
+    101044: joint75 1
+    101046: joint75 2
+    101048: joint75 3
+    101050: joint75 4
+    101052: joint75 5
+    101054: joint75 6
+    101056: joint76
+    101058: joint76 1
+    101060: joint76 2
+    101062: joint76 3
+    101064: joint76 4
+    101066: joint76 5
+    101068: joint76 6
+    101070: joint77
+    101072: joint77 1
+    101074: joint77 2
+    101076: joint77 3
+    101078: joint77 4
+    101080: joint77 5
+    101082: joint77 6
+    101084: joint78
+    101086: joint78 1
+    101088: joint78 2
+    101090: joint78 3
+    101092: joint78 4
+    101094: joint78 5
+    101096: joint78 6
+    101098: joint79
+    101100: joint79 1
+    101102: joint79 2
+    101104: joint79 3
+    101106: joint79 4
+    101108: joint79 5
+    101110: joint79 6
+    101112: joint8
+    101114: joint8 1
+    101116: joint8 2
+    101118: joint8 3
+    101120: joint8 4
+    101122: joint8 5
+    101124: joint8 6
+    101126: joint80
+    101128: joint80 1
+    101130: joint80 2
+    101132: joint80 3
+    101134: joint80 4
+    101136: joint80 5
+    101138: joint80 6
+    101140: joint81
+    101142: joint81 1
+    101144: joint81 2
+    101146: joint81 3
+    101148: joint81 4
+    101150: joint81 5
+    101152: joint81 6
+    101154: joint82
+    101156: joint82 1
+    101158: joint82 2
+    101160: joint82 3
+    101162: joint82 4
+    101164: joint82 5
+    101166: joint82 6
+    101168: joint83
+    101170: joint83 1
+    101172: joint83 2
+    101174: joint83 3
+    101176: joint83 4
+    101178: joint83 5
+    101180: joint83 6
+    101182: joint84
+    101184: joint84 1
+    101186: joint84 2
+    101188: joint84 3
+    101190: joint84 4
+    101192: joint84 5
+    101194: joint84 6
+    101196: joint85
+    101198: joint85 1
+    101200: joint85 2
+    101202: joint85 3
+    101204: joint85 4
+    101206: joint85 5
+    101208: joint85 6
+    101210: joint86
+    101212: joint86 1
+    101214: joint86 2
+    101216: joint86 3
+    101218: joint86 4
+    101220: joint86 5
+    101222: joint86 6
+    101224: joint87
+    101226: joint87 1
+    101228: joint87 2
+    101230: joint87 3
+    101232: joint87 4
+    101234: joint87 5
+    101236: joint87 6
+    101238: joint88
+    101240: joint88 1
+    101242: joint88 2
+    101244: joint88 3
+    101246: joint88 4
+    101248: joint88 5
+    101250: joint88 6
+    101252: joint89
+    101254: joint89 1
+    101256: joint89 2
+    101258: joint89 3
+    101260: joint89 4
+    101262: joint89 5
+    101264: joint89 6
+    101266: joint9
+    101268: joint9 1
+    101270: joint9 2
+    101272: joint9 3
+    101274: joint9 4
+    101276: joint9 5
+    101278: joint9 6
+    101280: joint90
+    101282: joint90 1
+    101284: joint90 2
+    101286: joint90 3
+    101288: joint90 4
+    101290: joint90 5
+    101292: joint90 6
+    101294: joint91
+    101296: joint91 1
+    101298: joint91 2
+    101300: joint91 3
+    101302: joint91 4
+    101304: joint91 5
+    101306: joint91 6
+    101308: joint92
+    101310: joint92 1
+    101312: joint92 2
+    101314: joint92 3
+    101316: joint92 4
+    101318: joint92 5
+    101320: joint92 6
+    101322: joint93
+    101324: joint93 1
+    101326: joint93 2
+    101328: joint93 3
+    101330: joint93 4
+    101332: joint93 5
+    101334: joint93 6
+    101336: joint94
+    101338: joint94 1
+    101340: joint94 2
+    101342: joint94 3
+    101344: joint94 4
+    101346: joint94 5
+    101348: joint94 6
+    101350: joint95
+    101352: joint95 1
+    101354: joint95 2
+    101356: joint95 3
+    101358: joint95 4
+    101360: joint95 5
+    101362: joint95 6
+    101364: joint96
+    101366: joint96 1
+    101368: joint96 2
+    101370: joint96 3
+    101372: joint96 4
+    101374: joint96 5
+    101376: joint96 6
+    101378: joint97
+    101380: joint97 1
+    101382: joint97 2
+    101384: joint97 3
+    101386: joint97 4
+    101388: joint97 5
+    101390: joint97 6
+    101392: joint98
+    101394: joint98 1
+    101396: joint98 2
+    101398: joint98 3
+    101400: joint98 4
+    101402: joint98 5
+    101404: joint98 6
+    101406: joint99
+    101408: joint99 1
+    101410: joint99 2
+    101412: joint99 3
+    101414: joint99 4
+    101416: joint99 5
+    101418: joint99 6
+    101420: Joints
+    101422: MESH_1
+    101424: MESH_2
+    101426: MESH_3
+    101428: MESH_4
+    101430: MESH_5
+    101432: MESH_6
+    101434: MESH_7
+    101436: Pipes
+    101438: joint_A_1
+    101440: joint_A_10
+    101442: joint_A_100
+    101444: joint_A_101
+    101446: joint_A_11
+    101448: joint_A_12
+    101450: joint_A_13
+    101452: joint_A_14
+    101454: joint_A_15
+    101456: joint_A_16
+    101458: joint_A_17
+    101460: joint_A_18
+    101462: joint_A_19
+    101464: joint_A_2
+    101466: joint_A_20
+    101468: joint_A_21
+    101470: joint_A_22
+    101472: joint_A_23
+    101474: joint_A_24
+    101476: joint_A_25
+    101478: joint_A_26
+    101480: joint_A_27
+    101482: joint_A_28
+    101484: joint_A_29
+    101486: joint_A_3
+    101488: joint_A_30
+    101490: joint_A_31
+    101492: joint_A_32
+    101494: joint_A_33
+    101496: joint_A_34
+    101498: joint_A_35
+    101500: joint_A_36
+    101502: joint_A_37
+    101504: joint_A_38
+    101506: joint_A_39
+    101508: joint_A_4
+    101510: joint_A_40
+    101512: joint_A_41
+    101514: joint_A_42
+    101516: joint_A_43
+    101518: joint_A_44
+    101520: joint_A_45
+    101522: joint_A_46
+    101524: joint_A_47
+    101526: joint_A_48
+    101528: joint_A_49
+    101530: joint_A_5
+    101532: joint_A_50
+    101534: joint_A_51
+    101536: joint_A_52
+    101538: joint_A_53
+    101540: joint_A_54
+    101542: joint_A_55
+    101544: joint_A_56
+    101546: joint_A_57
+    101548: joint_A_58
+    101550: joint_A_59
+    101552: joint_A_6
+    101554: joint_A_60
+    101556: joint_A_61
+    101558: joint_A_62
+    101560: joint_A_63
+    101562: joint_A_64
+    101564: joint_A_65
+    101566: joint_A_66
+    101568: joint_A_67
+    101570: joint_A_68
+    101572: joint_A_69
+    101574: joint_A_7
+    101576: joint_A_70
+    101578: joint_A_71
+    101580: joint_A_72
+    101582: joint_A_73
+    101584: joint_A_74
+    101586: joint_A_75
+    101588: joint_A_76
+    101590: joint_A_77
+    101592: joint_A_78
+    101594: joint_A_79
+    101596: joint_A_8
+    101598: joint_A_80
+    101600: joint_A_81
+    101602: joint_A_82
+    101604: joint_A_83
+    101606: joint_A_84
+    101608: joint_A_85
+    101610: joint_A_86
+    101612: joint_A_87
+    101614: joint_A_88
+    101616: joint_A_89
+    101618: joint_A_9
+    101620: joint_A_90
+    101622: joint_A_91
+    101624: joint_A_92
+    101626: joint_A_93
+    101628: joint_A_94
+    101630: joint_A_95
+    101632: joint_A_96
+    101634: joint_A_97
+    101636: joint_A_98
+    101638: joint_A_99
+    101640: joint_B_1
+    101642: joint_B_10
+    101644: joint_B_100
+    101646: joint_B_101
+    101648: joint_B_11
+    101650: joint_B_12
+    101652: joint_B_13
+    101654: joint_B_14
+    101656: joint_B_15
+    101658: joint_B_16
+    101660: joint_B_17
+    101662: joint_B_18
+    101664: joint_B_19
+    101666: joint_B_2
+    101668: joint_B_20
+    101670: joint_B_21
+    101672: joint_B_22
+    101674: joint_B_23
+    101676: joint_B_24
+    101678: joint_B_25
+    101680: joint_B_26
+    101682: joint_B_27
+    101684: joint_B_28
+    101686: joint_B_29
+    101688: joint_B_3
+    101690: joint_B_30
+    101692: joint_B_31
+    101694: joint_B_32
+    101696: joint_B_33
+    101698: joint_B_34
+    101700: joint_B_35
+    101702: joint_B_36
+    101704: joint_B_37
+    101706: joint_B_38
+    101708: joint_B_39
+    101710: joint_B_4
+    101712: joint_B_40
+    101714: joint_B_41
+    101716: joint_B_42
+    101718: joint_B_43
+    101720: joint_B_44
+    101722: joint_B_45
+    101724: joint_B_46
+    101726: joint_B_47
+    101728: joint_B_48
+    101730: joint_B_49
+    101732: joint_B_5
+    101734: joint_B_50
+    101736: joint_B_51
+    101738: joint_B_52
+    101740: joint_B_53
+    101742: joint_B_54
+    101744: joint_B_55
+    101746: joint_B_56
+    101748: joint_B_57
+    101750: joint_B_58
+    101752: joint_B_59
+    101754: joint_B_6
+    101756: joint_B_60
+    101758: joint_B_61
+    101760: joint_B_62
+    101762: joint_B_63
+    101764: joint_B_64
+    101766: joint_B_65
+    101768: joint_B_66
+    101770: joint_B_67
+    101772: joint_B_68
+    101774: joint_B_69
+    101776: joint_B_7
+    101778: joint_B_70
+    101780: joint_B_71
+    101782: joint_B_72
+    101784: joint_B_73
+    101786: joint_B_74
+    101788: joint_B_75
+    101790: joint_B_76
+    101792: joint_B_77
+    101794: joint_B_78
+    101796: joint_B_79
+    101798: joint_B_8
+    101800: joint_B_80
+    101802: joint_B_81
+    101804: joint_B_82
+    101806: joint_B_83
+    101808: joint_B_84
+    101810: joint_B_85
+    101812: joint_B_86
+    101814: joint_B_87
+    101816: joint_B_88
+    101818: joint_B_89
+    101820: joint_B_9
+    101822: joint_B_90
+    101824: joint_B_91
+    101826: joint_B_92
+    101828: joint_B_93
+    101830: joint_B_94
+    101832: joint_B_95
+    101834: joint_B_96
+    101836: joint_B_97
+    101838: joint_B_98
+    101840: joint_B_99
+    101842: Joint_C_1
+    101844: Joint_C_10
+    101846: Joint_C_100
+    101848: Joint_C_101
+    101850: Joint_C_11
+    101852: Joint_C_12
+    101854: Joint_C_13
+    101856: Joint_C_14
+    101858: Joint_C_15
+    101860: Joint_C_16
+    101862: Joint_C_17
+    101864: Joint_C_18
+    101866: Joint_C_19
+    101868: Joint_C_2
+    101870: Joint_C_20
+    101872: Joint_C_21
+    101874: Joint_C_22
+    101876: Joint_C_23
+    101878: Joint_C_24
+    101880: Joint_C_25
+    101882: Joint_C_26
+    101884: Joint_C_27
+    101886: Joint_C_28
+    101888: Joint_C_29
+    101890: Joint_C_3
+    101892: Joint_C_30
+    101894: Joint_C_31
+    101896: Joint_C_32
+    101898: Joint_C_33
+    101900: Joint_C_34
+    101902: Joint_C_35
+    101904: Joint_C_36
+    101906: Joint_C_37
+    101908: Joint_C_38
+    101910: Joint_C_39
+    101912: Joint_C_4
+    101914: Joint_C_40
+    101916: Joint_C_41
+    101918: Joint_C_42
+    101920: Joint_C_43
+    101922: Joint_C_44
+    101924: Joint_C_45
+    101926: Joint_C_46
+    101928: Joint_C_47
+    101930: Joint_C_48
+    101932: Joint_C_49
+    101934: Joint_C_5
+    101936: Joint_C_50
+    101938: Joint_C_51
+    101940: Joint_C_52
+    101942: Joint_C_53
+    101944: Joint_C_54
+    101946: Joint_C_55
+    101948: Joint_C_56
+    101950: Joint_C_57
+    101952: Joint_C_58
+    101954: Joint_C_59
+    101956: Joint_C_6
+    101958: Joint_C_60
+    101960: Joint_C_61
+    101962: Joint_C_62
+    101964: Joint_C_63
+    101966: Joint_C_64
+    101968: Joint_C_65
+    101970: Joint_C_66
+    101972: Joint_C_67
+    101974: Joint_C_68
+    101976: Joint_C_69
+    101978: Joint_C_7
+    101980: Joint_C_70
+    101982: Joint_C_71
+    101984: Joint_C_72
+    101986: Joint_C_73
+    101988: Joint_C_74
+    101990: Joint_C_75
+    101992: Joint_C_76
+    101994: Joint_C_77
+    101996: Joint_C_78
+    101998: Joint_C_79
+    102000: Joint_C_8
+    102002: Joint_C_80
+    102004: Joint_C_81
+    102006: Joint_C_82
+    102008: Joint_C_83
+    102010: Joint_C_84
+    102012: Joint_C_85
+    102014: Joint_C_86
+    102016: Joint_C_87
+    102018: Joint_C_88
+    102020: Joint_C_89
+    102022: Joint_C_9
+    102024: Joint_C_90
+    102026: Joint_C_91
+    102028: Joint_C_92
+    102030: Joint_C_93
+    102032: Joint_C_94
+    102034: Joint_C_95
+    102036: Joint_C_96
+    102038: Joint_C_97
+    102040: Joint_C_98
+    102042: Joint_C_99
+    102044: joint_D_1
+    102046: joint_D_10
+    102048: joint_D_100
+    102050: joint_D_101
+    102052: joint_D_11
+    102054: joint_D_12
+    102056: joint_D_13
+    102058: joint_D_14
+    102060: joint_D_15
+    102062: joint_D_16
+    102064: joint_D_17
+    102066: joint_D_18
+    102068: joint_D_19
+    102070: joint_D_2
+    102072: joint_D_20
+    102074: joint_D_21
+    102076: joint_D_22
+    102078: joint_D_23
+    102080: joint_D_24
+    102082: joint_D_25
+    102084: joint_D_26
+    102086: joint_D_27
+    102088: joint_D_28
+    102090: joint_D_29
+    102092: joint_D_3
+    102094: joint_D_30
+    102096: joint_D_31
+    102098: joint_D_32
+    102100: joint_D_33
+    102102: joint_D_34
+    102104: joint_D_35
+    102106: joint_D_36
+    102108: joint_D_37
+    102110: joint_D_38
+    102112: joint_D_39
+    102114: joint_D_4
+    102116: joint_D_40
+    102118: joint_D_41
+    102120: joint_D_42
+    102122: joint_D_43
+    102124: joint_D_44
+    102126: joint_D_45
+    102128: joint_D_46
+    102130: joint_D_47
+    102132: joint_D_48
+    102134: joint_D_49
+    102136: joint_D_5
+    102138: joint_D_50
+    102140: joint_D_51
+    102142: joint_D_52
+    102144: joint_D_53
+    102146: joint_D_54
+    102148: joint_D_55
+    102150: joint_D_56
+    102152: joint_D_57
+    102154: joint_D_58
+    102156: joint_D_59
+    102158: joint_D_6
+    102160: joint_D_60
+    102162: joint_D_61
+    102164: joint_D_62
+    102166: joint_D_63
+    102168: joint_D_64
+    102170: joint_D_65
+    102172: joint_D_66
+    102174: joint_D_67
+    102176: joint_D_68
+    102178: joint_D_69
+    102180: joint_D_7
+    102182: joint_D_70
+    102184: joint_D_71
+    102186: joint_D_72
+    102188: joint_D_73
+    102190: joint_D_74
+    102192: joint_D_75
+    102194: joint_D_76
+    102196: joint_D_77
+    102198: joint_D_78
+    102200: joint_D_79
+    102202: joint_D_8
+    102204: joint_D_80
+    102206: joint_D_81
+    102208: joint_D_82
+    102210: joint_D_83
+    102212: joint_D_84
+    102214: joint_D_85
+    102216: joint_D_86
+    102218: joint_D_87
+    102220: joint_D_88
+    102222: joint_D_89
+    102224: joint_D_9
+    102226: joint_D_90
+    102228: joint_D_91
+    102230: joint_D_92
+    102232: joint_D_93
+    102234: joint_D_94
+    102236: joint_D_95
+    102238: joint_D_96
+    102240: joint_D_97
+    102242: joint_D_98
+    102244: joint_D_99
+    102246: joint_E_1
+    102248: joint_E_10
+    102250: joint_E_100
+    102252: joint_E_101
+    102254: joint_E_11
+    102256: joint_E_12
+    102258: joint_E_13
+    102260: joint_E_14
+    102262: joint_E_15
+    102264: joint_E_16
+    102266: joint_E_17
+    102268: joint_E_18
+    102270: joint_E_19
+    102272: joint_E_2
+    102274: joint_E_20
+    102276: joint_E_21
+    102278: joint_E_22
+    102280: joint_E_23
+    102282: joint_E_24
+    102284: joint_E_25
+    102286: joint_E_26
+    102288: joint_E_27
+    102290: joint_E_28
+    102292: joint_E_29
+    102294: joint_E_3
+    102296: joint_E_30
+    102298: joint_E_31
+    102300: joint_E_32
+    102302: joint_E_33
+    102304: joint_E_34
+    102306: joint_E_35
+    102308: joint_E_36
+    102310: joint_E_37
+    102312: joint_E_38
+    102314: joint_E_39
+    102316: joint_E_4
+    102318: joint_E_40
+    102320: joint_E_41
+    102322: joint_E_42
+    102324: joint_E_43
+    102326: joint_E_44
+    102328: joint_E_45
+    102330: joint_E_46
+    102332: joint_E_47
+    102334: joint_E_48
+    102336: joint_E_49
+    102338: joint_E_5
+    102340: joint_E_50
+    102342: joint_E_51
+    102344: joint_E_52
+    102346: joint_E_53
+    102348: joint_E_54
+    102350: joint_E_55
+    102352: joint_E_56
+    102354: joint_E_57
+    102356: joint_E_58
+    102358: joint_E_59
+    102360: joint_E_6
+    102362: joint_E_60
+    102364: joint_E_61
+    102366: joint_E_62
+    102368: joint_E_63
+    102370: joint_E_64
+    102372: joint_E_65
+    102374: joint_E_66
+    102376: joint_E_67
+    102378: joint_E_68
+    102380: joint_E_69
+    102382: joint_E_7
+    102384: joint_E_70
+    102386: joint_E_71
+    102388: joint_E_72
+    102390: joint_E_73
+    102392: joint_E_74
+    102394: joint_E_75
+    102396: joint_E_76
+    102398: joint_E_77
+    102400: joint_E_78
+    102402: joint_E_79
+    102404: joint_E_8
+    102406: joint_E_80
+    102408: joint_E_81
+    102410: joint_E_82
+    102412: joint_E_83
+    102414: joint_E_84
+    102416: joint_E_85
+    102418: joint_E_86
+    102420: joint_E_87
+    102422: joint_E_88
+    102424: joint_E_89
+    102426: joint_E_9
+    102428: joint_E_90
+    102430: joint_E_91
+    102432: joint_E_92
+    102434: joint_E_93
+    102436: joint_E_94
+    102438: joint_E_95
+    102440: joint_E_96
+    102442: joint_E_97
+    102444: joint_E_98
+    102446: joint_E_99
+    102448: joint_F_1
+    102450: joint_F_10
+    102452: joint_F_100
+    102454: joint_F_101
+    102456: joint_F_11
+    102458: joint_F_12
+    102460: joint_F_13
+    102462: joint_F_14
+    102464: joint_F_15
+    102466: joint_F_16
+    102468: joint_F_17
+    102470: joint_F_18
+    102472: joint_F_19
+    102474: joint_F_2
+    102476: joint_F_20
+    102478: joint_F_21
+    102480: joint_F_22
+    102482: joint_F_23
+    102484: joint_F_24
+    102486: joint_F_25
+    102488: joint_F_26
+    102490: joint_F_27
+    102492: joint_F_28
+    102494: joint_F_29
+    102496: joint_F_3
+    102498: joint_F_30
+    102500: joint_F_31
+    102502: joint_F_32
+    102504: joint_F_33
+    102506: joint_F_34
+    102508: joint_F_35
+    102510: joint_F_36
+    102512: joint_F_37
+    102514: joint_F_38
+    102516: joint_F_39
+    102518: joint_F_4
+    102520: joint_F_40
+    102522: joint_F_41
+    102524: joint_F_42
+    102526: joint_F_43
+    102528: joint_F_44
+    102530: joint_F_45
+    102532: joint_F_46
+    102534: joint_F_47
+    102536: joint_F_48
+    102538: joint_F_49
+    102540: joint_F_5
+    102542: joint_F_50
+    102544: joint_F_51
+    102546: joint_F_52
+    102548: joint_F_53
+    102550: joint_F_54
+    102552: joint_F_55
+    102554: joint_F_56
+    102556: joint_F_57
+    102558: joint_F_58
+    102560: joint_F_59
+    102562: joint_F_6
+    102564: joint_F_60
+    102566: joint_F_61
+    102568: joint_F_62
+    102570: joint_F_63
+    102572: joint_F_64
+    102574: joint_F_65
+    102576: joint_F_66
+    102578: joint_F_67
+    102580: joint_F_68
+    102582: joint_F_69
+    102584: joint_F_7
+    102586: joint_F_70
+    102588: joint_F_71
+    102590: joint_F_72
+    102592: joint_F_73
+    102594: joint_F_74
+    102596: joint_F_75
+    102598: joint_F_76
+    102600: joint_F_77
+    102602: joint_F_78
+    102604: joint_F_79
+    102606: joint_F_8
+    102608: joint_F_80
+    102610: joint_F_81
+    102612: joint_F_82
+    102614: joint_F_83
+    102616: joint_F_84
+    102618: joint_F_85
+    102620: joint_F_86
+    102622: joint_F_87
+    102624: joint_F_88
+    102626: joint_F_89
+    102628: joint_F_9
+    102630: joint_F_90
+    102632: joint_F_91
+    102634: joint_F_92
+    102636: joint_F_93
+    102638: joint_F_94
+    102640: joint_F_95
+    102642: joint_F_96
+    102644: joint_F_97
+    102646: joint_F_98
+    102648: joint_F_99
+    102650: joint_G_1
+    102652: joint_G_10
+    102654: joint_G_100
+    102656: joint_G_101
+    102658: joint_G_11
+    102660: joint_G_12
+    102662: joint_G_13
+    102664: joint_G_14
+    102666: joint_G_15
+    102668: joint_G_16
+    102670: joint_G_17
+    102672: joint_G_18
+    102674: joint_G_19
+    102676: joint_G_2
+    102678: joint_G_20
+    102680: joint_G_21
+    102682: joint_G_22
+    102684: joint_G_23
+    102686: joint_G_24
+    102688: joint_G_25
+    102690: joint_G_26
+    102692: joint_G_27
+    102694: joint_G_28
+    102696: joint_G_29
+    102698: joint_G_3
+    102700: joint_G_30
+    102702: joint_G_31
+    102704: joint_G_32
+    102706: joint_G_33
+    102708: joint_G_34
+    102710: joint_G_35
+    102712: joint_G_36
+    102714: joint_G_37
+    102716: joint_G_38
+    102718: joint_G_39
+    102720: joint_G_4
+    102722: joint_G_40
+    102724: joint_G_41
+    102726: joint_G_42
+    102728: joint_G_43
+    102730: joint_G_44
+    102732: joint_G_45
+    102734: joint_G_46
+    102736: joint_G_47
+    102738: joint_G_48
+    102740: joint_G_49
+    102742: joint_G_5
+    102744: joint_G_50
+    102746: joint_G_51
+    102748: joint_G_52
+    102750: joint_G_53
+    102752: joint_G_54
+    102754: joint_G_55
+    102756: joint_G_56
+    102758: joint_G_57
+    102760: joint_G_58
+    102762: joint_G_59
+    102764: joint_G_6
+    102766: joint_G_60
+    102768: joint_G_61
+    102770: joint_G_62
+    102772: joint_G_63
+    102774: joint_G_64
+    102776: joint_G_65
+    102778: joint_G_66
+    102780: joint_G_67
+    102782: joint_G_68
+    102784: joint_G_69
+    102786: joint_G_7
+    102788: joint_G_70
+    102790: joint_G_71
+    102792: joint_G_72
+    102794: joint_G_73
+    102796: joint_G_74
+    102798: joint_G_75
+    102800: joint_G_76
+    102802: joint_G_77
+    102804: joint_G_78
+    102806: joint_G_79
+    102808: joint_G_8
+    102810: joint_G_80
+    102812: joint_G_81
+    102814: joint_G_82
+    102816: joint_G_83
+    102818: joint_G_84
+    102820: joint_G_85
+    102822: joint_G_86
+    102824: joint_G_87
+    102826: joint_G_88
+    102828: joint_G_89
+    102830: joint_G_9
+    102832: joint_G_90
+    102834: joint_G_91
+    102836: joint_G_92
+    102838: joint_G_93
+    102840: joint_G_94
+    102842: joint_G_95
+    102844: joint_G_96
+    102846: joint_G_97
+    102848: joint_G_98
+    102850: joint_G_99
+    102852: Particle_Collider
+    102854: pSphere1
+    102856: Collider_1
+    102858: Collider_2
+    102860: Collider_3
+    102862: Collider_4
+    102864: Cables_Collider
+    102866: Particle_Jump_Collider
+    400000: BLOCKER
+    400002: //RootNode
+    400004: CELLER_DOOR
+    400006: joint1
+    400008: joint10
+    400010: joint10 1
+    400012: joint10 2
+    400014: joint10 3
+    400016: joint10 4
+    400018: joint10 5
+    400020: joint10 6
+    400022: joint100
+    400024: joint100 1
+    400026: joint100 2
+    400028: joint100 3
+    400030: joint100 4
+    400032: joint100 5
+    400034: joint100 6
+    400036: joint101
+    400038: joint101 1
+    400040: joint101 2
+    400042: joint101 3
+    400044: joint101 4
+    400046: joint101 5
+    400048: joint101 6
+    400050: joint102
+    400052: joint103
+    400054: joint104
+    400056: joint105
+    400058: joint106
+    400060: joint107
+    400062: joint11
+    400064: joint11 1
+    400066: joint11 2
+    400068: joint11 3
+    400070: joint11 4
+    400072: joint11 5
+    400074: joint11 6
+    400076: joint12
+    400078: joint12 1
+    400080: joint12 2
+    400082: joint12 3
+    400084: joint12 4
+    400086: joint12 5
+    400088: joint12 6
+    400090: joint13
+    400092: joint13 1
+    400094: joint13 2
+    400096: joint13 3
+    400098: joint13 4
+    400100: joint13 5
+    400102: joint13 6
+    400104: joint14
+    400106: joint14 1
+    400108: joint14 2
+    400110: joint14 3
+    400112: joint14 4
+    400114: joint14 5
+    400116: joint14 6
+    400118: joint15
+    400120: joint15 1
+    400122: joint15 2
+    400124: joint15 3
+    400126: joint15 4
+    400128: joint15 5
+    400130: joint15 6
+    400132: joint16
+    400134: joint16 1
+    400136: joint16 2
+    400138: joint16 3
+    400140: joint16 4
+    400142: joint16 5
+    400144: joint16 6
+    400146: joint17
+    400148: joint17 1
+    400150: joint17 2
+    400152: joint17 3
+    400154: joint17 4
+    400156: joint17 5
+    400158: joint17 6
+    400160: joint18
+    400162: joint18 1
+    400164: joint18 2
+    400166: joint18 3
+    400168: joint18 4
+    400170: joint18 5
+    400172: joint18 6
+    400174: joint19
+    400176: joint19 1
+    400178: joint19 2
+    400180: joint19 3
+    400182: joint19 4
+    400184: joint19 5
+    400186: joint19 6
+    400188: joint2
+    400190: joint2 1
+    400192: joint2 2
+    400194: joint2 3
+    400196: joint2 4
+    400198: joint2 5
+    400200: joint2 6
+    400202: joint20
+    400204: joint20 1
+    400206: joint20 2
+    400208: joint20 3
+    400210: joint20 4
+    400212: joint20 5
+    400214: joint20 6
+    400216: joint21
+    400218: joint21 1
+    400220: joint21 2
+    400222: joint21 3
+    400224: joint21 4
+    400226: joint21 5
+    400228: joint21 6
+    400230: joint22
+    400232: joint22 1
+    400234: joint22 2
+    400236: joint22 3
+    400238: joint22 4
+    400240: joint22 5
+    400242: joint22 6
+    400244: joint23
+    400246: joint23 1
+    400248: joint23 2
+    400250: joint23 3
+    400252: joint23 4
+    400254: joint23 5
+    400256: joint23 6
+    400258: joint24
+    400260: joint24 1
+    400262: joint24 2
+    400264: joint24 3
+    400266: joint24 4
+    400268: joint24 5
+    400270: joint24 6
+    400272: joint25
+    400274: joint25 1
+    400276: joint25 2
+    400278: joint25 3
+    400280: joint25 4
+    400282: joint25 5
+    400284: joint25 6
+    400286: joint26
+    400288: joint26 1
+    400290: joint26 2
+    400292: joint26 3
+    400294: joint26 4
+    400296: joint26 5
+    400298: joint26 6
+    400300: joint27
+    400302: joint27 1
+    400304: joint27 2
+    400306: joint27 3
+    400308: joint27 4
+    400310: joint27 5
+    400312: joint27 6
+    400314: joint28
+    400316: joint28 1
+    400318: joint28 2
+    400320: joint28 3
+    400322: joint28 4
+    400324: joint28 5
+    400326: joint28 6
+    400328: joint29
+    400330: joint29 1
+    400332: joint29 2
+    400334: joint29 3
+    400336: joint29 4
+    400338: joint29 5
+    400340: joint29 6
+    400342: joint3
+    400344: joint3 1
+    400346: joint3 2
+    400348: joint3 3
+    400350: joint3 4
+    400352: joint3 5
+    400354: joint3 6
+    400356: joint30
+    400358: joint30 1
+    400360: joint30 2
+    400362: joint30 3
+    400364: joint30 4
+    400366: joint30 5
+    400368: joint30 6
+    400370: joint31
+    400372: joint31 1
+    400374: joint31 2
+    400376: joint31 3
+    400378: joint31 4
+    400380: joint31 5
+    400382: joint31 6
+    400384: joint32
+    400386: joint32 1
+    400388: joint32 2
+    400390: joint32 3
+    400392: joint32 4
+    400394: joint32 5
+    400396: joint32 6
+    400398: joint33
+    400400: joint33 1
+    400402: joint33 2
+    400404: joint33 3
+    400406: joint33 4
+    400408: joint33 5
+    400410: joint33 6
+    400412: joint34
+    400414: joint34 1
+    400416: joint34 2
+    400418: joint34 3
+    400420: joint34 4
+    400422: joint34 5
+    400424: joint34 6
+    400426: joint35
+    400428: joint35 1
+    400430: joint35 2
+    400432: joint35 3
+    400434: joint35 4
+    400436: joint35 5
+    400438: joint35 6
+    400440: joint36
+    400442: joint36 1
+    400444: joint36 2
+    400446: joint36 3
+    400448: joint36 4
+    400450: joint36 5
+    400452: joint36 6
+    400454: joint37
+    400456: joint37 1
+    400458: joint37 2
+    400460: joint37 3
+    400462: joint37 4
+    400464: joint37 5
+    400466: joint37 6
+    400468: joint38
+    400470: joint38 1
+    400472: joint38 2
+    400474: joint38 3
+    400476: joint38 4
+    400478: joint38 5
+    400480: joint38 6
+    400482: joint39
+    400484: joint39 1
+    400486: joint39 2
+    400488: joint39 3
+    400490: joint39 4
+    400492: joint39 5
+    400494: joint39 6
+    400496: joint4
+    400498: joint4 1
+    400500: joint4 2
+    400502: joint4 3
+    400504: joint4 4
+    400506: joint4 5
+    400508: joint4 6
+    400510: joint40
+    400512: joint40 1
+    400514: joint40 2
+    400516: joint40 3
+    400518: joint40 4
+    400520: joint40 5
+    400522: joint40 6
+    400524: joint41
+    400526: joint41 1
+    400528: joint41 2
+    400530: joint41 3
+    400532: joint41 4
+    400534: joint41 5
+    400536: joint41 6
+    400538: joint42
+    400540: joint42 1
+    400542: joint42 2
+    400544: joint42 3
+    400546: joint42 4
+    400548: joint42 5
+    400550: joint42 6
+    400552: joint43
+    400554: joint43 1
+    400556: joint43 2
+    400558: joint43 3
+    400560: joint43 4
+    400562: joint43 5
+    400564: joint43 6
+    400566: joint44
+    400568: joint44 1
+    400570: joint44 2
+    400572: joint44 3
+    400574: joint44 4
+    400576: joint44 5
+    400578: joint44 6
+    400580: joint45
+    400582: joint45 1
+    400584: joint45 2
+    400586: joint45 3
+    400588: joint45 4
+    400590: joint45 5
+    400592: joint45 6
+    400594: joint46
+    400596: joint46 1
+    400598: joint46 2
+    400600: joint46 3
+    400602: joint46 4
+    400604: joint46 5
+    400606: joint46 6
+    400608: joint47
+    400610: joint47 1
+    400612: joint47 2
+    400614: joint47 3
+    400616: joint47 4
+    400618: joint47 5
+    400620: joint47 6
+    400622: joint48
+    400624: joint48 1
+    400626: joint48 2
+    400628: joint48 3
+    400630: joint48 4
+    400632: joint48 5
+    400634: joint48 6
+    400636: joint49
+    400638: joint49 1
+    400640: joint49 2
+    400642: joint49 3
+    400644: joint49 4
+    400646: joint49 5
+    400648: joint49 6
+    400650: joint5
+    400652: joint5 1
+    400654: joint5 2
+    400656: joint5 3
+    400658: joint5 4
+    400660: joint5 5
+    400662: joint5 6
+    400664: joint50
+    400666: joint50 1
+    400668: joint50 2
+    400670: joint50 3
+    400672: joint50 4
+    400674: joint50 5
+    400676: joint50 6
+    400678: joint51
+    400680: joint51 1
+    400682: joint51 2
+    400684: joint51 3
+    400686: joint51 4
+    400688: joint51 5
+    400690: joint51 6
+    400692: joint52
+    400694: joint52 1
+    400696: joint52 2
+    400698: joint52 3
+    400700: joint52 4
+    400702: joint52 5
+    400704: joint52 6
+    400706: joint53
+    400708: joint53 1
+    400710: joint53 2
+    400712: joint53 3
+    400714: joint53 4
+    400716: joint53 5
+    400718: joint53 6
+    400720: joint54
+    400722: joint54 1
+    400724: joint54 2
+    400726: joint54 3
+    400728: joint54 4
+    400730: joint54 5
+    400732: joint54 6
+    400734: joint55
+    400736: joint55 1
+    400738: joint55 2
+    400740: joint55 3
+    400742: joint55 4
+    400744: joint55 5
+    400746: joint55 6
+    400748: joint56
+    400750: joint56 1
+    400752: joint56 2
+    400754: joint56 3
+    400756: joint56 4
+    400758: joint56 5
+    400760: joint56 6
+    400762: joint57
+    400764: joint57 1
+    400766: joint57 2
+    400768: joint57 3
+    400770: joint57 4
+    400772: joint57 5
+    400774: joint57 6
+    400776: joint58
+    400778: joint58 1
+    400780: joint58 2
+    400782: joint58 3
+    400784: joint58 4
+    400786: joint58 5
+    400788: joint58 6
+    400790: joint59
+    400792: joint59 1
+    400794: joint59 2
+    400796: joint59 3
+    400798: joint59 4
+    400800: joint59 5
+    400802: joint59 6
+    400804: joint6
+    400806: joint6 1
+    400808: joint6 2
+    400810: joint6 3
+    400812: joint6 4
+    400814: joint6 5
+    400816: joint6 6
+    400818: joint60
+    400820: joint60 1
+    400822: joint60 2
+    400824: joint60 3
+    400826: joint60 4
+    400828: joint60 5
+    400830: joint60 6
+    400832: joint61
+    400834: joint61 1
+    400836: joint61 2
+    400838: joint61 3
+    400840: joint61 4
+    400842: joint61 5
+    400844: joint61 6
+    400846: joint62
+    400848: joint62 1
+    400850: joint62 2
+    400852: joint62 3
+    400854: joint62 4
+    400856: joint62 5
+    400858: joint62 6
+    400860: joint63
+    400862: joint63 1
+    400864: joint63 2
+    400866: joint63 3
+    400868: joint63 4
+    400870: joint63 5
+    400872: joint63 6
+    400874: joint64
+    400876: joint64 1
+    400878: joint64 2
+    400880: joint64 3
+    400882: joint64 4
+    400884: joint64 5
+    400886: joint64 6
+    400888: joint65
+    400890: joint65 1
+    400892: joint65 2
+    400894: joint65 3
+    400896: joint65 4
+    400898: joint65 5
+    400900: joint65 6
+    400902: joint66
+    400904: joint66 1
+    400906: joint66 2
+    400908: joint66 3
+    400910: joint66 4
+    400912: joint66 5
+    400914: joint66 6
+    400916: joint67
+    400918: joint67 1
+    400920: joint67 2
+    400922: joint67 3
+    400924: joint67 4
+    400926: joint67 5
+    400928: joint67 6
+    400930: joint68
+    400932: joint68 1
+    400934: joint68 2
+    400936: joint68 3
+    400938: joint68 4
+    400940: joint68 5
+    400942: joint68 6
+    400944: joint69
+    400946: joint69 1
+    400948: joint69 2
+    400950: joint69 3
+    400952: joint69 4
+    400954: joint69 5
+    400956: joint69 6
+    400958: joint7
+    400960: joint7 1
+    400962: joint7 2
+    400964: joint7 3
+    400966: joint7 4
+    400968: joint7 5
+    400970: joint7 6
+    400972: joint70
+    400974: joint70 1
+    400976: joint70 2
+    400978: joint70 3
+    400980: joint70 4
+    400982: joint70 5
+    400984: joint70 6
+    400986: joint71
+    400988: joint71 1
+    400990: joint71 2
+    400992: joint71 3
+    400994: joint71 4
+    400996: joint71 5
+    400998: joint71 6
+    401000: joint72
+    401002: joint72 1
+    401004: joint72 2
+    401006: joint72 3
+    401008: joint72 4
+    401010: joint72 5
+    401012: joint72 6
+    401014: joint73
+    401016: joint73 1
+    401018: joint73 2
+    401020: joint73 3
+    401022: joint73 4
+    401024: joint73 5
+    401026: joint73 6
+    401028: joint74
+    401030: joint74 1
+    401032: joint74 2
+    401034: joint74 3
+    401036: joint74 4
+    401038: joint74 5
+    401040: joint74 6
+    401042: joint75
+    401044: joint75 1
+    401046: joint75 2
+    401048: joint75 3
+    401050: joint75 4
+    401052: joint75 5
+    401054: joint75 6
+    401056: joint76
+    401058: joint76 1
+    401060: joint76 2
+    401062: joint76 3
+    401064: joint76 4
+    401066: joint76 5
+    401068: joint76 6
+    401070: joint77
+    401072: joint77 1
+    401074: joint77 2
+    401076: joint77 3
+    401078: joint77 4
+    401080: joint77 5
+    401082: joint77 6
+    401084: joint78
+    401086: joint78 1
+    401088: joint78 2
+    401090: joint78 3
+    401092: joint78 4
+    401094: joint78 5
+    401096: joint78 6
+    401098: joint79
+    401100: joint79 1
+    401102: joint79 2
+    401104: joint79 3
+    401106: joint79 4
+    401108: joint79 5
+    401110: joint79 6
+    401112: joint8
+    401114: joint8 1
+    401116: joint8 2
+    401118: joint8 3
+    401120: joint8 4
+    401122: joint8 5
+    401124: joint8 6
+    401126: joint80
+    401128: joint80 1
+    401130: joint80 2
+    401132: joint80 3
+    401134: joint80 4
+    401136: joint80 5
+    401138: joint80 6
+    401140: joint81
+    401142: joint81 1
+    401144: joint81 2
+    401146: joint81 3
+    401148: joint81 4
+    401150: joint81 5
+    401152: joint81 6
+    401154: joint82
+    401156: joint82 1
+    401158: joint82 2
+    401160: joint82 3
+    401162: joint82 4
+    401164: joint82 5
+    401166: joint82 6
+    401168: joint83
+    401170: joint83 1
+    401172: joint83 2
+    401174: joint83 3
+    401176: joint83 4
+    401178: joint83 5
+    401180: joint83 6
+    401182: joint84
+    401184: joint84 1
+    401186: joint84 2
+    401188: joint84 3
+    401190: joint84 4
+    401192: joint84 5
+    401194: joint84 6
+    401196: joint85
+    401198: joint85 1
+    401200: joint85 2
+    401202: joint85 3
+    401204: joint85 4
+    401206: joint85 5
+    401208: joint85 6
+    401210: joint86
+    401212: joint86 1
+    401214: joint86 2
+    401216: joint86 3
+    401218: joint86 4
+    401220: joint86 5
+    401222: joint86 6
+    401224: joint87
+    401226: joint87 1
+    401228: joint87 2
+    401230: joint87 3
+    401232: joint87 4
+    401234: joint87 5
+    401236: joint87 6
+    401238: joint88
+    401240: joint88 1
+    401242: joint88 2
+    401244: joint88 3
+    401246: joint88 4
+    401248: joint88 5
+    401250: joint88 6
+    401252: joint89
+    401254: joint89 1
+    401256: joint89 2
+    401258: joint89 3
+    401260: joint89 4
+    401262: joint89 5
+    401264: joint89 6
+    401266: joint9
+    401268: joint9 1
+    401270: joint9 2
+    401272: joint9 3
+    401274: joint9 4
+    401276: joint9 5
+    401278: joint9 6
+    401280: joint90
+    401282: joint90 1
+    401284: joint90 2
+    401286: joint90 3
+    401288: joint90 4
+    401290: joint90 5
+    401292: joint90 6
+    401294: joint91
+    401296: joint91 1
+    401298: joint91 2
+    401300: joint91 3
+    401302: joint91 4
+    401304: joint91 5
+    401306: joint91 6
+    401308: joint92
+    401310: joint92 1
+    401312: joint92 2
+    401314: joint92 3
+    401316: joint92 4
+    401318: joint92 5
+    401320: joint92 6
+    401322: joint93
+    401324: joint93 1
+    401326: joint93 2
+    401328: joint93 3
+    401330: joint93 4
+    401332: joint93 5
+    401334: joint93 6
+    401336: joint94
+    401338: joint94 1
+    401340: joint94 2
+    401342: joint94 3
+    401344: joint94 4
+    401346: joint94 5
+    401348: joint94 6
+    401350: joint95
+    401352: joint95 1
+    401354: joint95 2
+    401356: joint95 3
+    401358: joint95 4
+    401360: joint95 5
+    401362: joint95 6
+    401364: joint96
+    401366: joint96 1
+    401368: joint96 2
+    401370: joint96 3
+    401372: joint96 4
+    401374: joint96 5
+    401376: joint96 6
+    401378: joint97
+    401380: joint97 1
+    401382: joint97 2
+    401384: joint97 3
+    401386: joint97 4
+    401388: joint97 5
+    401390: joint97 6
+    401392: joint98
+    401394: joint98 1
+    401396: joint98 2
+    401398: joint98 3
+    401400: joint98 4
+    401402: joint98 5
+    401404: joint98 6
+    401406: joint99
+    401408: joint99 1
+    401410: joint99 2
+    401412: joint99 3
+    401414: joint99 4
+    401416: joint99 5
+    401418: joint99 6
+    401420: Joints
+    401422: MESH_1
+    401424: MESH_2
+    401426: MESH_3
+    401428: MESH_4
+    401430: MESH_5
+    401432: MESH_6
+    401434: MESH_7
+    401436: Pipes
+    401438: joint_A_1
+    401440: joint_A_10
+    401442: joint_A_100
+    401444: joint_A_101
+    401446: joint_A_11
+    401448: joint_A_12
+    401450: joint_A_13
+    401452: joint_A_14
+    401454: joint_A_15
+    401456: joint_A_16
+    401458: joint_A_17
+    401460: joint_A_18
+    401462: joint_A_19
+    401464: joint_A_2
+    401466: joint_A_20
+    401468: joint_A_21
+    401470: joint_A_22
+    401472: joint_A_23
+    401474: joint_A_24
+    401476: joint_A_25
+    401478: joint_A_26
+    401480: joint_A_27
+    401482: joint_A_28
+    401484: joint_A_29
+    401486: joint_A_3
+    401488: joint_A_30
+    401490: joint_A_31
+    401492: joint_A_32
+    401494: joint_A_33
+    401496: joint_A_34
+    401498: joint_A_35
+    401500: joint_A_36
+    401502: joint_A_37
+    401504: joint_A_38
+    401506: joint_A_39
+    401508: joint_A_4
+    401510: joint_A_40
+    401512: joint_A_41
+    401514: joint_A_42
+    401516: joint_A_43
+    401518: joint_A_44
+    401520: joint_A_45
+    401522: joint_A_46
+    401524: joint_A_47
+    401526: joint_A_48
+    401528: joint_A_49
+    401530: joint_A_5
+    401532: joint_A_50
+    401534: joint_A_51
+    401536: joint_A_52
+    401538: joint_A_53
+    401540: joint_A_54
+    401542: joint_A_55
+    401544: joint_A_56
+    401546: joint_A_57
+    401548: joint_A_58
+    401550: joint_A_59
+    401552: joint_A_6
+    401554: joint_A_60
+    401556: joint_A_61
+    401558: joint_A_62
+    401560: joint_A_63
+    401562: joint_A_64
+    401564: joint_A_65
+    401566: joint_A_66
+    401568: joint_A_67
+    401570: joint_A_68
+    401572: joint_A_69
+    401574: joint_A_7
+    401576: joint_A_70
+    401578: joint_A_71
+    401580: joint_A_72
+    401582: joint_A_73
+    401584: joint_A_74
+    401586: joint_A_75
+    401588: joint_A_76
+    401590: joint_A_77
+    401592: joint_A_78
+    401594: joint_A_79
+    401596: joint_A_8
+    401598: joint_A_80
+    401600: joint_A_81
+    401602: joint_A_82
+    401604: joint_A_83
+    401606: joint_A_84
+    401608: joint_A_85
+    401610: joint_A_86
+    401612: joint_A_87
+    401614: joint_A_88
+    401616: joint_A_89
+    401618: joint_A_9
+    401620: joint_A_90
+    401622: joint_A_91
+    401624: joint_A_92
+    401626: joint_A_93
+    401628: joint_A_94
+    401630: joint_A_95
+    401632: joint_A_96
+    401634: joint_A_97
+    401636: joint_A_98
+    401638: joint_A_99
+    401640: joint_B_1
+    401642: joint_B_10
+    401644: joint_B_100
+    401646: joint_B_101
+    401648: joint_B_11
+    401650: joint_B_12
+    401652: joint_B_13
+    401654: joint_B_14
+    401656: joint_B_15
+    401658: joint_B_16
+    401660: joint_B_17
+    401662: joint_B_18
+    401664: joint_B_19
+    401666: joint_B_2
+    401668: joint_B_20
+    401670: joint_B_21
+    401672: joint_B_22
+    401674: joint_B_23
+    401676: joint_B_24
+    401678: joint_B_25
+    401680: joint_B_26
+    401682: joint_B_27
+    401684: joint_B_28
+    401686: joint_B_29
+    401688: joint_B_3
+    401690: joint_B_30
+    401692: joint_B_31
+    401694: joint_B_32
+    401696: joint_B_33
+    401698: joint_B_34
+    401700: joint_B_35
+    401702: joint_B_36
+    401704: joint_B_37
+    401706: joint_B_38
+    401708: joint_B_39
+    401710: joint_B_4
+    401712: joint_B_40
+    401714: joint_B_41
+    401716: joint_B_42
+    401718: joint_B_43
+    401720: joint_B_44
+    401722: joint_B_45
+    401724: joint_B_46
+    401726: joint_B_47
+    401728: joint_B_48
+    401730: joint_B_49
+    401732: joint_B_5
+    401734: joint_B_50
+    401736: joint_B_51
+    401738: joint_B_52
+    401740: joint_B_53
+    401742: joint_B_54
+    401744: joint_B_55
+    401746: joint_B_56
+    401748: joint_B_57
+    401750: joint_B_58
+    401752: joint_B_59
+    401754: joint_B_6
+    401756: joint_B_60
+    401758: joint_B_61
+    401760: joint_B_62
+    401762: joint_B_63
+    401764: joint_B_64
+    401766: joint_B_65
+    401768: joint_B_66
+    401770: joint_B_67
+    401772: joint_B_68
+    401774: joint_B_69
+    401776: joint_B_7
+    401778: joint_B_70
+    401780: joint_B_71
+    401782: joint_B_72
+    401784: joint_B_73
+    401786: joint_B_74
+    401788: joint_B_75
+    401790: joint_B_76
+    401792: joint_B_77
+    401794: joint_B_78
+    401796: joint_B_79
+    401798: joint_B_8
+    401800: joint_B_80
+    401802: joint_B_81
+    401804: joint_B_82
+    401806: joint_B_83
+    401808: joint_B_84
+    401810: joint_B_85
+    401812: joint_B_86
+    401814: joint_B_87
+    401816: joint_B_88
+    401818: joint_B_89
+    401820: joint_B_9
+    401822: joint_B_90
+    401824: joint_B_91
+    401826: joint_B_92
+    401828: joint_B_93
+    401830: joint_B_94
+    401832: joint_B_95
+    401834: joint_B_96
+    401836: joint_B_97
+    401838: joint_B_98
+    401840: joint_B_99
+    401842: Joint_C_1
+    401844: Joint_C_10
+    401846: Joint_C_100
+    401848: Joint_C_101
+    401850: Joint_C_11
+    401852: Joint_C_12
+    401854: Joint_C_13
+    401856: Joint_C_14
+    401858: Joint_C_15
+    401860: Joint_C_16
+    401862: Joint_C_17
+    401864: Joint_C_18
+    401866: Joint_C_19
+    401868: Joint_C_2
+    401870: Joint_C_20
+    401872: Joint_C_21
+    401874: Joint_C_22
+    401876: Joint_C_23
+    401878: Joint_C_24
+    401880: Joint_C_25
+    401882: Joint_C_26
+    401884: Joint_C_27
+    401886: Joint_C_28
+    401888: Joint_C_29
+    401890: Joint_C_3
+    401892: Joint_C_30
+    401894: Joint_C_31
+    401896: Joint_C_32
+    401898: Joint_C_33
+    401900: Joint_C_34
+    401902: Joint_C_35
+    401904: Joint_C_36
+    401906: Joint_C_37
+    401908: Joint_C_38
+    401910: Joint_C_39
+    401912: Joint_C_4
+    401914: Joint_C_40
+    401916: Joint_C_41
+    401918: Joint_C_42
+    401920: Joint_C_43
+    401922: Joint_C_44
+    401924: Joint_C_45
+    401926: Joint_C_46
+    401928: Joint_C_47
+    401930: Joint_C_48
+    401932: Joint_C_49
+    401934: Joint_C_5
+    401936: Joint_C_50
+    401938: Joint_C_51
+    401940: Joint_C_52
+    401942: Joint_C_53
+    401944: Joint_C_54
+    401946: Joint_C_55
+    401948: Joint_C_56
+    401950: Joint_C_57
+    401952: Joint_C_58
+    401954: Joint_C_59
+    401956: Joint_C_6
+    401958: Joint_C_60
+    401960: Joint_C_61
+    401962: Joint_C_62
+    401964: Joint_C_63
+    401966: Joint_C_64
+    401968: Joint_C_65
+    401970: Joint_C_66
+    401972: Joint_C_67
+    401974: Joint_C_68
+    401976: Joint_C_69
+    401978: Joint_C_7
+    401980: Joint_C_70
+    401982: Joint_C_71
+    401984: Joint_C_72
+    401986: Joint_C_73
+    401988: Joint_C_74
+    401990: Joint_C_75
+    401992: Joint_C_76
+    401994: Joint_C_77
+    401996: Joint_C_78
+    401998: Joint_C_79
+    402000: Joint_C_8
+    402002: Joint_C_80
+    402004: Joint_C_81
+    402006: Joint_C_82
+    402008: Joint_C_83
+    402010: Joint_C_84
+    402012: Joint_C_85
+    402014: Joint_C_86
+    402016: Joint_C_87
+    402018: Joint_C_88
+    402020: Joint_C_89
+    402022: Joint_C_9
+    402024: Joint_C_90
+    402026: Joint_C_91
+    402028: Joint_C_92
+    402030: Joint_C_93
+    402032: Joint_C_94
+    402034: Joint_C_95
+    402036: Joint_C_96
+    402038: Joint_C_97
+    402040: Joint_C_98
+    402042: Joint_C_99
+    402044: joint_D_1
+    402046: joint_D_10
+    402048: joint_D_100
+    402050: joint_D_101
+    402052: joint_D_11
+    402054: joint_D_12
+    402056: joint_D_13
+    402058: joint_D_14
+    402060: joint_D_15
+    402062: joint_D_16
+    402064: joint_D_17
+    402066: joint_D_18
+    402068: joint_D_19
+    402070: joint_D_2
+    402072: joint_D_20
+    402074: joint_D_21
+    402076: joint_D_22
+    402078: joint_D_23
+    402080: joint_D_24
+    402082: joint_D_25
+    402084: joint_D_26
+    402086: joint_D_27
+    402088: joint_D_28
+    402090: joint_D_29
+    402092: joint_D_3
+    402094: joint_D_30
+    402096: joint_D_31
+    402098: joint_D_32
+    402100: joint_D_33
+    402102: joint_D_34
+    402104: joint_D_35
+    402106: joint_D_36
+    402108: joint_D_37
+    402110: joint_D_38
+    402112: joint_D_39
+    402114: joint_D_4
+    402116: joint_D_40
+    402118: joint_D_41
+    402120: joint_D_42
+    402122: joint_D_43
+    402124: joint_D_44
+    402126: joint_D_45
+    402128: joint_D_46
+    402130: joint_D_47
+    402132: joint_D_48
+    402134: joint_D_49
+    402136: joint_D_5
+    402138: joint_D_50
+    402140: joint_D_51
+    402142: joint_D_52
+    402144: joint_D_53
+    402146: joint_D_54
+    402148: joint_D_55
+    402150: joint_D_56
+    402152: joint_D_57
+    402154: joint_D_58
+    402156: joint_D_59
+    402158: joint_D_6
+    402160: joint_D_60
+    402162: joint_D_61
+    402164: joint_D_62
+    402166: joint_D_63
+    402168: joint_D_64
+    402170: joint_D_65
+    402172: joint_D_66
+    402174: joint_D_67
+    402176: joint_D_68
+    402178: joint_D_69
+    402180: joint_D_7
+    402182: joint_D_70
+    402184: joint_D_71
+    402186: joint_D_72
+    402188: joint_D_73
+    402190: joint_D_74
+    402192: joint_D_75
+    402194: joint_D_76
+    402196: joint_D_77
+    402198: joint_D_78
+    402200: joint_D_79
+    402202: joint_D_8
+    402204: joint_D_80
+    402206: joint_D_81
+    402208: joint_D_82
+    402210: joint_D_83
+    402212: joint_D_84
+    402214: joint_D_85
+    402216: joint_D_86
+    402218: joint_D_87
+    402220: joint_D_88
+    402222: joint_D_89
+    402224: joint_D_9
+    402226: joint_D_90
+    402228: joint_D_91
+    402230: joint_D_92
+    402232: joint_D_93
+    402234: joint_D_94
+    402236: joint_D_95
+    402238: joint_D_96
+    402240: joint_D_97
+    402242: joint_D_98
+    402244: joint_D_99
+    402246: joint_E_1
+    402248: joint_E_10
+    402250: joint_E_100
+    402252: joint_E_101
+    402254: joint_E_11
+    402256: joint_E_12
+    402258: joint_E_13
+    402260: joint_E_14
+    402262: joint_E_15
+    402264: joint_E_16
+    402266: joint_E_17
+    402268: joint_E_18
+    402270: joint_E_19
+    402272: joint_E_2
+    402274: joint_E_20
+    402276: joint_E_21
+    402278: joint_E_22
+    402280: joint_E_23
+    402282: joint_E_24
+    402284: joint_E_25
+    402286: joint_E_26
+    402288: joint_E_27
+    402290: joint_E_28
+    402292: joint_E_29
+    402294: joint_E_3
+    402296: joint_E_30
+    402298: joint_E_31
+    402300: joint_E_32
+    402302: joint_E_33
+    402304: joint_E_34
+    402306: joint_E_35
+    402308: joint_E_36
+    402310: joint_E_37
+    402312: joint_E_38
+    402314: joint_E_39
+    402316: joint_E_4
+    402318: joint_E_40
+    402320: joint_E_41
+    402322: joint_E_42
+    402324: joint_E_43
+    402326: joint_E_44
+    402328: joint_E_45
+    402330: joint_E_46
+    402332: joint_E_47
+    402334: joint_E_48
+    402336: joint_E_49
+    402338: joint_E_5
+    402340: joint_E_50
+    402342: joint_E_51
+    402344: joint_E_52
+    402346: joint_E_53
+    402348: joint_E_54
+    402350: joint_E_55
+    402352: joint_E_56
+    402354: joint_E_57
+    402356: joint_E_58
+    402358: joint_E_59
+    402360: joint_E_6
+    402362: joint_E_60
+    402364: joint_E_61
+    402366: joint_E_62
+    402368: joint_E_63
+    402370: joint_E_64
+    402372: joint_E_65
+    402374: joint_E_66
+    402376: joint_E_67
+    402378: joint_E_68
+    402380: joint_E_69
+    402382: joint_E_7
+    402384: joint_E_70
+    402386: joint_E_71
+    402388: joint_E_72
+    402390: joint_E_73
+    402392: joint_E_74
+    402394: joint_E_75
+    402396: joint_E_76
+    402398: joint_E_77
+    402400: joint_E_78
+    402402: joint_E_79
+    402404: joint_E_8
+    402406: joint_E_80
+    402408: joint_E_81
+    402410: joint_E_82
+    402412: joint_E_83
+    402414: joint_E_84
+    402416: joint_E_85
+    402418: joint_E_86
+    402420: joint_E_87
+    402422: joint_E_88
+    402424: joint_E_89
+    402426: joint_E_9
+    402428: joint_E_90
+    402430: joint_E_91
+    402432: joint_E_92
+    402434: joint_E_93
+    402436: joint_E_94
+    402438: joint_E_95
+    402440: joint_E_96
+    402442: joint_E_97
+    402444: joint_E_98
+    402446: joint_E_99
+    402448: joint_F_1
+    402450: joint_F_10
+    402452: joint_F_100
+    402454: joint_F_101
+    402456: joint_F_11
+    402458: joint_F_12
+    402460: joint_F_13
+    402462: joint_F_14
+    402464: joint_F_15
+    402466: joint_F_16
+    402468: joint_F_17
+    402470: joint_F_18
+    402472: joint_F_19
+    402474: joint_F_2
+    402476: joint_F_20
+    402478: joint_F_21
+    402480: joint_F_22
+    402482: joint_F_23
+    402484: joint_F_24
+    402486: joint_F_25
+    402488: joint_F_26
+    402490: joint_F_27
+    402492: joint_F_28
+    402494: joint_F_29
+    402496: joint_F_3
+    402498: joint_F_30
+    402500: joint_F_31
+    402502: joint_F_32
+    402504: joint_F_33
+    402506: joint_F_34
+    402508: joint_F_35
+    402510: joint_F_36
+    402512: joint_F_37
+    402514: joint_F_38
+    402516: joint_F_39
+    402518: joint_F_4
+    402520: joint_F_40
+    402522: joint_F_41
+    402524: joint_F_42
+    402526: joint_F_43
+    402528: joint_F_44
+    402530: joint_F_45
+    402532: joint_F_46
+    402534: joint_F_47
+    402536: joint_F_48
+    402538: joint_F_49
+    402540: joint_F_5
+    402542: joint_F_50
+    402544: joint_F_51
+    402546: joint_F_52
+    402548: joint_F_53
+    402550: joint_F_54
+    402552: joint_F_55
+    402554: joint_F_56
+    402556: joint_F_57
+    402558: joint_F_58
+    402560: joint_F_59
+    402562: joint_F_6
+    402564: joint_F_60
+    402566: joint_F_61
+    402568: joint_F_62
+    402570: joint_F_63
+    402572: joint_F_64
+    402574: joint_F_65
+    402576: joint_F_66
+    402578: joint_F_67
+    402580: joint_F_68
+    402582: joint_F_69
+    402584: joint_F_7
+    402586: joint_F_70
+    402588: joint_F_71
+    402590: joint_F_72
+    402592: joint_F_73
+    402594: joint_F_74
+    402596: joint_F_75
+    402598: joint_F_76
+    402600: joint_F_77
+    402602: joint_F_78
+    402604: joint_F_79
+    402606: joint_F_8
+    402608: joint_F_80
+    402610: joint_F_81
+    402612: joint_F_82
+    402614: joint_F_83
+    402616: joint_F_84
+    402618: joint_F_85
+    402620: joint_F_86
+    402622: joint_F_87
+    402624: joint_F_88
+    402626: joint_F_89
+    402628: joint_F_9
+    402630: joint_F_90
+    402632: joint_F_91
+    402634: joint_F_92
+    402636: joint_F_93
+    402638: joint_F_94
+    402640: joint_F_95
+    402642: joint_F_96
+    402644: joint_F_97
+    402646: joint_F_98
+    402648: joint_F_99
+    402650: joint_G_1
+    402652: joint_G_10
+    402654: joint_G_100
+    402656: joint_G_101
+    402658: joint_G_11
+    402660: joint_G_12
+    402662: joint_G_13
+    402664: joint_G_14
+    402666: joint_G_15
+    402668: joint_G_16
+    402670: joint_G_17
+    402672: joint_G_18
+    402674: joint_G_19
+    402676: joint_G_2
+    402678: joint_G_20
+    402680: joint_G_21
+    402682: joint_G_22
+    402684: joint_G_23
+    402686: joint_G_24
+    402688: joint_G_25
+    402690: joint_G_26
+    402692: joint_G_27
+    402694: joint_G_28
+    402696: joint_G_29
+    402698: joint_G_3
+    402700: joint_G_30
+    402702: joint_G_31
+    402704: joint_G_32
+    402706: joint_G_33
+    402708: joint_G_34
+    402710: joint_G_35
+    402712: joint_G_36
+    402714: joint_G_37
+    402716: joint_G_38
+    402718: joint_G_39
+    402720: joint_G_4
+    402722: joint_G_40
+    402724: joint_G_41
+    402726: joint_G_42
+    402728: joint_G_43
+    402730: joint_G_44
+    402732: joint_G_45
+    402734: joint_G_46
+    402736: joint_G_47
+    402738: joint_G_48
+    402740: joint_G_49
+    402742: joint_G_5
+    402744: joint_G_50
+    402746: joint_G_51
+    402748: joint_G_52
+    402750: joint_G_53
+    402752: joint_G_54
+    402754: joint_G_55
+    402756: joint_G_56
+    402758: joint_G_57
+    402760: joint_G_58
+    402762: joint_G_59
+    402764: joint_G_6
+    402766: joint_G_60
+    402768: joint_G_61
+    402770: joint_G_62
+    402772: joint_G_63
+    402774: joint_G_64
+    402776: joint_G_65
+    402778: joint_G_66
+    402780: joint_G_67
+    402782: joint_G_68
+    402784: joint_G_69
+    402786: joint_G_7
+    402788: joint_G_70
+    402790: joint_G_71
+    402792: joint_G_72
+    402794: joint_G_73
+    402796: joint_G_74
+    402798: joint_G_75
+    402800: joint_G_76
+    402802: joint_G_77
+    402804: joint_G_78
+    402806: joint_G_79
+    402808: joint_G_8
+    402810: joint_G_80
+    402812: joint_G_81
+    402814: joint_G_82
+    402816: joint_G_83
+    402818: joint_G_84
+    402820: joint_G_85
+    402822: joint_G_86
+    402824: joint_G_87
+    402826: joint_G_88
+    402828: joint_G_89
+    402830: joint_G_9
+    402832: joint_G_90
+    402834: joint_G_91
+    402836: joint_G_92
+    402838: joint_G_93
+    402840: joint_G_94
+    402842: joint_G_95
+    402844: joint_G_96
+    402846: joint_G_97
+    402848: joint_G_98
+    402850: joint_G_99
+    402852: Particle_Collider
+    402854: pSphere1
+    402856: Collider_1
+    402858: Collider_2
+    402860: Collider_3
+    402862: Collider_4
+    402864: Cables_Collider
+    402866: Particle_Jump_Collider
+    2100000: lambert1
+    2100002: M_BLACK
+    2100004: M_CABLE_REGULAR
+    2100006: M_Cables_Copper
+    2100008: M_Cables_Green
+    2100010: M_Cables_Blue
+    2100012: M_Cables_Red
+    2100014: M_Cables_Yellow
+    2100016: M_Cables_Alum
+    2100018: M_EMPTY
+    2100020: M_CABLES_Hatch
+    2300000: BLOCKER
+    2300002: CELLER_DOOR
+    2300004: Particle_Collider
+    2300006: pSphere1
+    2300008: Collider_1
+    2300010: Collider_2
+    2300012: Collider_3
+    2300014: Collider_4
+    2300016: Cables_Collider
+    3300000: BLOCKER
+    3300002: CELLER_DOOR
+    3300004: Particle_Collider
+    3300006: pSphere1
+    3300008: Collider_1
+    3300010: Collider_2
+    3300012: Collider_3
+    3300014: Collider_4
+    3300016: Cables_Collider
+    4300000: CELLER_DOOR
+    4300002: BLOCKER
+    4300004: MESH_1
+    4300006: MESH_2
+    4300008: MESH_3
+    4300010: MESH_4
+    4300012: MESH_5
+    4300014: MESH_6
+    4300016: MESH_7
+    4300018: Particle_Collider
+    4300020: pSphere1
+    4300022: Collider_1
+    4300024: Collider_2
+    4300026: Collider_3
+    4300028: Collider_4
+    4300030: Cables_Collider
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: MESH_1
+    13700002: MESH_2
+    13700004: MESH_3
+    13700006: MESH_4
+    13700008: MESH_5
+    13700010: MESH_6
+    13700012: MESH_7
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_BLACK
+    second: {fileID: 2100000, guid: 02d8e35c21c6e2146be888e444a0ad25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CABLES_Hatch
+    second: {fileID: 2100000, guid: 519704de609bf1344b189c611f16475d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CABLE_REGULAR
+    second: {fileID: 2100000, guid: 52e61f599056e044084db387562ce8f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Cables_Alum
+    second: {fileID: 2100000, guid: 090788a2c92bda94fa7c34993bc7fb1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Cables_Blue
+    second: {fileID: 2100000, guid: 60d1d90e49a80f347ad0add159d690c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Cables_Copper
+    second: {fileID: 2100000, guid: 9596b7bdcf538684eb8309621c0cdab0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Cables_Green
+    second: {fileID: 2100000, guid: 73c71d5744e106a4f802c22b2aeb2aba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Cables_Red
+    second: {fileID: 2100000, guid: 10ef40c7e571d7d44b7b01b923c1122d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Cables_Yellow
+    second: {fileID: 2100000, guid: 6de290b36f400f0448afd3159dbfde75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: be8e81b83164b6141904d85a14d59bc9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Powerup
+  - Obstacle
+  - Left
+  - Right
+  - Phase
+  - Rocket
+  - Malfunction
+  - BulletTime
+  - GlassTunnel
+  - NormalFloor
+  - Laser
+  - Tunnel
+  - ObstacleSelected
+  - LaserBeam
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - AhmetiSikmekCozumdur
+  - Section
+  - PostProcess
+  - Planet
+  - Trail
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

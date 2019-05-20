@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 6945f324d0423ff4ead2b34310e227d8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: anular
+    100002: body
+    100004: brazo
+    100006: brazo_1
+    100008: brazo_spline
+    100010: corazon
+    100012: //RootNode
+    100014: IK Chain001
+    100016: IK Chain002
+    100018: IK Chain003
+    100020: IK Chain004
+    100022: IK Chain005
+    100024: indice
+    100026: Junta
+    100028: Junta_1
+    100030: Junta_1_2
+    100032: Junta_1_3
+    100034: Junta_1_4
+    100036: Junta_1_5
+    100038: Junta_1_6
+    100040: Junta_2
+    100042: Junta_3
+    100044: Junta_7
+    100046: Junta_7_2
+    100048: Junta_7_3
+    100050: Junta_7_4
+    100052: Junta_7_5
+    100054: Junta_8
+    100056: menique
+    100058: mudillo_indice
+    100060: muneca
+    100062: muneca_2
+    100064: nudillo_anular
+    100066: nudillo_corazon
+    100068: nudillo_menique
+    100070: nudillo_pulgar
+    100072: pulgar
+    400000: anular
+    400002: body
+    400004: brazo
+    400006: brazo_1
+    400008: brazo_spline
+    400010: corazon
+    400012: //RootNode
+    400014: IK Chain001
+    400016: IK Chain002
+    400018: IK Chain003
+    400020: IK Chain004
+    400022: IK Chain005
+    400024: indice
+    400026: Junta
+    400028: Junta_1
+    400030: Junta_1_2
+    400032: Junta_1_3
+    400034: Junta_1_4
+    400036: Junta_1_5
+    400038: Junta_1_6
+    400040: Junta_2
+    400042: Junta_3
+    400044: Junta_7
+    400046: Junta_7_2
+    400048: Junta_7_3
+    400050: Junta_7_4
+    400052: Junta_7_5
+    400054: Junta_8
+    400056: menique
+    400058: mudillo_indice
+    400060: muneca
+    400062: muneca_2
+    400064: nudillo_anular
+    400066: nudillo_corazon
+    400068: nudillo_menique
+    400070: nudillo_pulgar
+    400072: pulgar
+    2100000: 'Material #45'
+    4300000: body
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: body
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
